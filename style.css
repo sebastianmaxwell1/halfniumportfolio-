@@ -1,11 +1,24 @@
-<nav class="navbar navbar-dark bg-dark">
-  <!-- Navbar content -->
-</nav>
 
-<nav class="navbar navbar-dark bg-primary">
-  <!-- Navbar content -->
-</nav>
+body {
+    background-image: url("clu-soh-5wxWp2wVwQc-unsplash\ \(1\).jpg");
+  background-size:cover;
+    
+  }
 
-<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
-  <!-- Navbar content -->
-</nav>
+.nav-button-colors {
+    background-color: gray;
+    color: whitesmoke;
+}
+
+.list-group{
+    display:inline-block;
+        position:fixed;
+        bottom: 0;
+        color:gray;
+        background-color: black;
+        
+}
+
+
+
+    
